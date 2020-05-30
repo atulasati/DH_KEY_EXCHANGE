@@ -6,15 +6,16 @@
     cd DH_KEY_EXCHANGE
 ```
 
-**2. craete and activate virtual-env** [can skip this step]
-```
+**2. craete and activate virtual-env** ```
+  2.1) [can skip this step]
     virtualenv VENV1.0
     -linux:
     source VENV1.0\bin\activate
   
     -Windows:
     VENV1.0\Scripts\activate
-  
+    
+  2.2)
     pip install -r requirements.txt
 ```
 
@@ -22,4 +23,3 @@
 ```
     python src\diffie_hellman_key_exchange.py
 ``` 
- 
