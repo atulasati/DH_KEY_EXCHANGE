@@ -3,7 +3,7 @@
 **1. clone the git repo**
 ```
     git clone https://github.com/atulasati/DH_KEY_EXCHANGE.git 
-    cd cd DH_KEY_EXCHANGE/src
+    cd DH_KEY_EXCHANGE
 ```
 
 **2. craete and activate virtual-env**
