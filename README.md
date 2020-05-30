@@ -6,7 +6,7 @@
     cd DH_KEY_EXCHANGE
 ```
 
-**2. craete and activate virtual-env**
+**2. craete and activate virtual-env** [can skip this step]
 ```
     virtualenv VENV1.0
     -linux:
