@@ -1,6 +1,4 @@
-# DH_KEY_EXCHANGE
-
-# Tic-Tac-Toe
+#  Diffie Hellman key exchange
 
 **1. clone the git repo**
 ```
